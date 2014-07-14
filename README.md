@@ -2,4 +2,4 @@
 
 Questo è un README modificato
 
-una riga in pi
+una riga in più
