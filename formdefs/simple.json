@@ -1,5 +1,11 @@
 {
-  "title" : "Form su gthub",
-  "children" : [
+  "title": "Form su gthub",
+  "children": [
+    {
+      "type": "intxt",
+      "lbl": "Nome",
+      "id": "name",
+      "model": "name"
+    }
   ]
 }
