@@ -5,7 +5,8 @@
       "type": "intxt",
       "lbl": "Nome",
       "id": "name",
-      "model": "name"
+      "model": "name",
+      "placeHolder": "Nome del personaggio"
     }
   ]
 }
