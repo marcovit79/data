@@ -1,0 +1,25 @@
+{
+  "title": "Form su gthub",
+  "children": [
+    {
+      "type": "intxt",
+      "lbl": "Giocatore",
+      "id": "pgof",
+      "model": "ownerName",
+      "placeHolder": "nome del giocatore"
+    },
+    {
+      "type": "intxt",
+      "lbl": "Nome",
+      "id": "name",
+      "model": "name",
+      "placeHolder": "Nome del personaggio"
+    },
+    {
+      "type": "intxt",
+      "lbl": "Razza",
+      "id": "razza",
+      "model": "razza"
+    }
+  ]
+}
