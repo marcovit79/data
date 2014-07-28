@@ -14,6 +14,12 @@
       "id": "name",
       "model": "name",
       "placeHolder": "Nome del personaggio"
+    },
+    {
+      "type": "intxt",
+      "lbl": "Pippo",
+      "id": "ddd",
+      "model": "pippo"
     }
   ]
 }
