@@ -10,6 +10,14 @@
     },
     {
       "type": "intxt",
+      "lbl": "Pernacchia",
+      "id": "a",
+      "name": "a",
+      "model": "a",
+      "placeHolder": "Prrrrr"
+    },
+    {
+      "type": "intxt",
       "lbl": "Nome",
       "id": "name",
       "model": "name",
