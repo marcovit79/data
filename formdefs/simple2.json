@@ -20,6 +20,14 @@
       "lbl": "Razza",
       "id": "razza",
       "model": "razza"
+    },
+    {
+      "type": "intxt",
+      "lbl": "Prrrrrrrrrrrrr",
+      "id": "pr",
+      "name": "pr",
+      "model": "pr",
+      "placeHolder": "Pernacchia"
     }
   ]
 }
