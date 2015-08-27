@@ -1,14 +1,362 @@
 [
   {
+    "eid": 36,
     "product": {
+      "eid": 27,
       "name": "Reviews"
     },
-    "name": "Cippo lippo",
+    "name": "Android platform base",
     "repository": {
-      "name": "AndroidReviewGIT"
+      "eid": 16,
+      "name": "AndroidReviewGIT",
+      "apiUrl": "https://android-review.googlesource.com/",
+      "uiUrl": "https://android.googlesource.com/",
+      "type": "git",
+      "version": "n/a"
     },
     "sourceRepoCode": "platform/frameworks/base",
     "projectsHubsInfo": [
-    ]
+      {
+        "hub": {
+          "eid": 15,
+          "name": "AndroidReview",
+          "apiUrl": "https://android-review.googlesource.com",
+          "uiUrl": "https://android-review.googlesource.com",
+          "type": "gerrit",
+          "version": "n/a"
+        },
+        "projectName": "platform/frameworks/base"
+      }
+    ],
+    "lastComputation": null,
+    "lastRefresh": "2015-08-23T12:36:50.667"
+  },
+  {
+    "eid": 34,
+    "product": {
+      "eid": 27,
+      "name": "Reviews"
+    },
+    "name": "QT base",
+    "repository": {
+      "eid": 18,
+      "name": "QtGIT",
+      "apiUrl": "https://codereview.qt-project.org/",
+      "uiUrl": "https://codereview.qt-project.org/",
+      "type": "git",
+      "version": "n/a"
+    },
+    "sourceRepoCode": "qt/qtbase",
+    "projectsHubsInfo": [
+      {
+        "hub": {
+          "eid": 17,
+          "name": "QtReview",
+          "apiUrl": "https://codereview.qt-project.org/",
+          "uiUrl": "https://codereview.qt-project.org/",
+          "type": "gerrit",
+          "version": "n/a&useSortIndex"
+        },
+        "projectName": "qt/qtbase"
+      }
+    ],
+    "lastComputation": null,
+    "lastRefresh": "2015-08-23T12:37:10.187"
+  },
+  {
+    "eid": 33,
+    "product": {
+      "eid": 23,
+      "name": "Issues"
+    },
+    "name": "SeaMonkey",
+    "repository": null,
+    "sourceRepoCode": "",
+    "projectsHubsInfo": [
+      {
+        "hub": {
+          "eid": 12,
+          "name": "MfBugzilla",
+          "apiUrl": "https://bugzilla.mozilla.org/rest/",
+          "uiUrl": "https://bugzilla.mozilla.org/",
+          "type": "bugzilla",
+          "version": "5"
+        },
+        "projectName": "SeaMonkey"
+      }
+    ],
+    "lastComputation": null,
+    "lastRefresh": "2015-08-23T12:37:50.482"
+  },
+  {
+    "eid": 25,
+    "product": {
+      "eid": 23,
+      "name": "Issues"
+    },
+    "name": "bugzilla",
+    "repository": null,
+    "sourceRepoCode": "",
+    "projectsHubsInfo": [
+      {
+        "hub": {
+          "eid": 12,
+          "name": "MfBugzilla",
+          "apiUrl": "https://bugzilla.mozilla.org/rest/",
+          "uiUrl": "https://bugzilla.mozilla.org/",
+          "type": "bugzilla",
+          "version": "5"
+        },
+        "projectName": "bugzilla"
+      }
+    ],
+    "lastComputation": null,
+    "lastRefresh": "2015-08-23T12:38:07.101"
+  },
+  {
+    "eid": 29,
+    "product": {
+      "eid": 23,
+      "name": "Issues"
+    },
+    "name": "FF Android",
+    "repository": null,
+    "sourceRepoCode": "",
+    "projectsHubsInfo": [
+      {
+        "hub": {
+          "eid": 12,
+          "name": "MfBugzilla",
+          "apiUrl": "https://bugzilla.mozilla.org/rest/",
+          "uiUrl": "https://bugzilla.mozilla.org/",
+          "type": "bugzilla",
+          "version": "5"
+        },
+        "projectName": "Firefox for Android"
+      }
+    ],
+    "lastComputation": null,
+    "lastRefresh": "2015-08-23T12:38:21.635"
+  },
+  {
+    "eid": 26,
+    "product": {
+      "eid": 23,
+      "name": "Issues"
+    },
+    "name": "Maven",
+    "repository": null,
+    "sourceRepoCode": "",
+    "projectsHubsInfo": [
+      {
+        "hub": {
+          "eid": 14,
+          "name": "AsfJira",
+          "apiUrl": "https://issues.apache.org/jira/rest/api/",
+          "uiUrl": "https://issues.apache.org/jira/",
+          "type": "jira",
+          "version": "n/a"
+        },
+        "projectName": "MNG"
+      }
+    ],
+    "lastComputation": null,
+    "lastRefresh": "2015-08-23T12:34:58.908"
+  },
+  {
+    "eid": 38,
+    "product": {
+      "eid": 27,
+      "name": "Reviews"
+    },
+    "name": "LibreOffice core",
+    "repository": {
+      "eid": 22,
+      "name": "LibreOfficeGIT",
+      "apiUrl": "http://anongit.freedesktop.org/git/libreoffice/",
+      "uiUrl": "http://anongit.freedesktop.org/git/libreoffice/",
+      "type": "git",
+      "version": "n/a"
+    },
+    "sourceRepoCode": "core",
+    "projectsHubsInfo": [
+      {
+        "hub": {
+          "eid": 21,
+          "name": "LibreOfficeReview",
+          "apiUrl": "https://gerrit.libreoffice.org/",
+          "uiUrl": "https://gerrit.libreoffice.org/",
+          "type": "gerrit",
+          "version": "n/a"
+        },
+        "projectName": "core"
+      }
+    ],
+    "lastComputation": null,
+    "lastRefresh": "2015-08-23T12:35:17.19"
+  },
+  {
+    "eid": 30,
+    "product": {
+      "eid": 23,
+      "name": "Issues"
+    },
+    "name": "CAMEL",
+    "repository": null,
+    "sourceRepoCode": "",
+    "projectsHubsInfo": [
+      {
+        "hub": {
+          "eid": 14,
+          "name": "AsfJira",
+          "apiUrl": "https://issues.apache.org/jira/rest/api/",
+          "uiUrl": "https://issues.apache.org/jira/",
+          "type": "jira",
+          "version": "n/a"
+        },
+        "projectName": "CAMEL"
+      }
+    ],
+    "lastComputation": null,
+    "lastRefresh": "2015-08-23T12:36:06.486"
+  },
+  {
+    "eid": 31,
+    "product": {
+      "eid": 27,
+      "name": "Reviews"
+    },
+    "name": "ITK",
+    "repository": {
+      "eid": 20,
+      "name": "IVtkGIT",
+      "apiUrl": "http://review.source.kitware.com/p/",
+      "uiUrl": "http://review.source.kitware.com/p/",
+      "type": "git",
+      "version": "n/a"
+    },
+    "sourceRepoCode": "ITK",
+    "projectsHubsInfo": [
+      {
+        "hub": {
+          "eid": 19,
+          "name": "IVtkReview",
+          "apiUrl": "http://review.source.kitware.com/",
+          "uiUrl": "http://review.source.kitware.com/",
+          "type": "gerrit",
+          "version": "n/a"
+        },
+        "projectName": "ITK"
+      }
+    ],
+    "lastComputation": null,
+    "lastRefresh": "2015-08-23T12:36:30.474"
+  },
+  {
+    "eid": 28,
+    "product": {
+      "eid": 27,
+      "name": "Reviews"
+    },
+    "name": "VTK",
+    "repository": {
+      "eid": 20,
+      "name": "IVtkGIT",
+      "apiUrl": "http://review.source.kitware.com/p/",
+      "uiUrl": "http://review.source.kitware.com/p/",
+      "type": "git",
+      "version": "n/a"
+    },
+    "sourceRepoCode": "VTK",
+    "projectsHubsInfo": [
+      {
+        "hub": {
+          "eid": 19,
+          "name": "IVtkReview",
+          "apiUrl": "http://review.source.kitware.com/",
+          "uiUrl": "http://review.source.kitware.com/",
+          "type": "gerrit",
+          "version": "n/a"
+        },
+        "projectName": "VTK"
+      }
+    ],
+    "lastComputation": null,
+    "lastRefresh": "2015-08-23T12:36:21.426"
+  },
+  {
+    "eid": 32,
+    "product": {
+      "eid": 23,
+      "name": "Issues"
+    },
+    "name": "Zookeeper",
+    "repository": null,
+    "sourceRepoCode": "",
+    "projectsHubsInfo": [
+      {
+        "hub": {
+          "eid": 14,
+          "name": "AsfJira",
+          "apiUrl": "https://issues.apache.org/jira/rest/api/",
+          "uiUrl": "https://issues.apache.org/jira/",
+          "type": "jira",
+          "version": "n/a"
+        },
+        "projectName": "ZOOKEEPER"
+      }
+    ],
+    "lastComputation": null,
+    "lastRefresh": "2015-08-23T12:35:38.654"
+  },
+  {
+    "eid": 37,
+    "product": {
+      "eid": 23,
+      "name": "Issues"
+    },
+    "name": "mozilla core",
+    "repository": null,
+    "sourceRepoCode": "",
+    "projectsHubsInfo": [
+      {
+        "hub": {
+          "eid": 12,
+          "name": "MfBugzilla",
+          "apiUrl": "https://bugzilla.mozilla.org/rest/",
+          "uiUrl": "https://bugzilla.mozilla.org/",
+          "type": "bugzilla",
+          "version": "5"
+        },
+        "projectName": "Core"
+      }
+    ],
+    "lastComputation": null,
+    "lastRefresh": "2015-08-23T12:40:08.311"
+  },
+  {
+    "eid": 35,
+    "product": {
+      "eid": 23,
+      "name": "Issues"
+    },
+    "name": "Firefox",
+    "repository": null,
+    "sourceRepoCode": "",
+    "projectsHubsInfo": [
+      {
+        "hub": {
+          "eid": 12,
+          "name": "MfBugzilla",
+          "apiUrl": "https://bugzilla.mozilla.org/rest/",
+          "uiUrl": "https://bugzilla.mozilla.org/",
+          "type": "bugzilla",
+          "version": "5"
+        },
+        "projectName": "Firefox"
+      }
+    ],
+    "lastComputation": null,
+    "lastRefresh": "2015-08-23T12:55:20.867"
   }
 ]
