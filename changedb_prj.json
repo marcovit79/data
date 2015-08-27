@@ -1,0 +1,14 @@
+[
+  {
+    "product": {
+      "name": "Reviews"
+    },
+    "name": "Cippo lippo",
+    "repository": {
+      "name": "AndroidReviewGIT"
+    },
+    "sourceRepoCode": "platform/frameworks/base",
+    "projectsHubsInfo": [
+    ]
+  }
+]
