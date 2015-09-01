@@ -12,3 +12,19 @@ una riga in più
   un codice
 }
 `````````
+
+# DB Type **changeDb**
+
+
+## Table **project**
+```SQL
+( 
+  select 
+    p.eid as eid, 
+    p.name as name, 
+    e.name as productName 
+  from 
+    project p 
+    join Product e on p.product_eid = e.eid 
+) as project 
+```
