@@ -1,0 +1,162 @@
+[
+  {
+    "eid": 16,
+    "product": {
+      "eid": 12,
+      "name": "IVTK"
+    },
+    "name": "ITK",
+    "repository": {
+      "eid": 6,
+      "name": "IVtkGIT",
+      "apiUrl": "http://review.source.kitware.com/p/",
+      "uiUrl": "http://review.source.kitware.com/p/",
+      "type": "git",
+      "version": "n/a"
+    },
+    "sourceRepoCode": "ITK",
+    "projectsHubsInfo": [
+      {
+        "hub": {
+          "eid": 5,
+          "name": "IVtkReview",
+          "apiUrl": "http://review.source.kitware.com/",
+          "uiUrl": "http://review.source.kitware.com/",
+          "type": "gerrit",
+          "version": "n/a"
+        },
+        "projectName": "ITK"
+      }
+    ],
+    "lastComputation": null,
+    "lastRefresh": "2015-06-11T18:36:43.664"
+  },
+  {
+    "eid": 15,
+    "product": {
+      "eid": 11,
+      "name": "LibreOffice"
+    },
+    "name": "Libre Office core",
+    "repository": {
+      "eid": 8,
+      "name": "LibreOfficeGIT",
+      "apiUrl": "http://anongit.freedesktop.org/git/libreoffice/",
+      "uiUrl": "http://anongit.freedesktop.org/git/libreoffice/",
+      "type": "git",
+      "version": "n/a"
+    },
+    "sourceRepoCode": "core",
+    "projectsHubsInfo": [
+      {
+        "hub": {
+          "eid": 7,
+          "name": "LibreOfficeReview",
+          "apiUrl": "https://gerrit.libreoffice.org/",
+          "uiUrl": "https://gerrit.libreoffice.org/",
+          "type": "gerrit",
+          "version": "n/a"
+        },
+        "projectName": "core"
+      }
+    ],
+    "lastComputation": null,
+    "lastRefresh": "2015-06-11T18:36:42.4"
+  },
+  {
+    "eid": 17,
+    "product": {
+      "eid": 12,
+      "name": "IVTK"
+    },
+    "name": "VTK",
+    "repository": {
+      "eid": 6,
+      "name": "IVtkGIT",
+      "apiUrl": "http://review.source.kitware.com/p/",
+      "uiUrl": "http://review.source.kitware.com/p/",
+      "type": "git",
+      "version": "n/a"
+    },
+    "sourceRepoCode": "VTK",
+    "projectsHubsInfo": [
+      {
+        "hub": {
+          "eid": 5,
+          "name": "IVtkReview",
+          "apiUrl": "http://review.source.kitware.com/",
+          "uiUrl": "http://review.source.kitware.com/",
+          "type": "gerrit",
+          "version": "n/a"
+        },
+        "projectName": "VTK"
+      }
+    ],
+    "lastComputation": null,
+    "lastRefresh": "2015-06-11T19:33:59.838"
+  },
+  {
+    "eid": 14,
+    "product": {
+      "eid": 10,
+      "name": "QtLib"
+    },
+    "name": "QtLib base",
+    "repository": {
+      "eid": 4,
+      "name": "QtGIT",
+      "apiUrl": "https://codereview.qt-project.org/",
+      "uiUrl": "https://codereview.qt-project.org/",
+      "type": "git",
+      "version": "n/a"
+    },
+    "sourceRepoCode": "qt/qtbase",
+    "projectsHubsInfo": [
+      {
+        "hub": {
+          "eid": 3,
+          "name": "QtReview",
+          "apiUrl": "https://codereview.qt-project.org/",
+          "uiUrl": "https://codereview.qt-project.org/",
+          "type": "gerrit",
+          "version": "n/a&useSortIndex"
+        },
+        "projectName": "qt/qtbase"
+      }
+    ],
+    "lastComputation": null,
+    "lastRefresh": "2015-06-11T18:35:02.046"
+  },
+  {
+    "eid": 13,
+    "product": {
+      "eid": 9,
+      "name": "Android"
+    },
+    "name": "Android Framewor Base",
+    "repository": {
+      "eid": 2,
+      "name": "AndroidReviewGIT",
+      "apiUrl": "https://android-review.googlesource.com/",
+      "uiUrl": "https://android.googlesource.com/",
+      "type": "git",
+      "version": "n/a"
+    },
+    "sourceRepoCode": "platform/frameworks/base",
+    "projectsHubsInfo": [
+      {
+        "hub": {
+          "eid": 1,
+          "name": "AndroidReview",
+          "apiUrl": "https://android-review.googlesource.com",
+          "uiUrl": "https://android-review.googlesource.com",
+          "type": "gerrit",
+          "version": "n/a"
+        },
+        "projectName": "platform/frameworks/base"
+      }
+    ],
+    "lastComputation": null,
+    "lastRefresh": "2015-09-08T17:44:49.25"
+  }
+]
